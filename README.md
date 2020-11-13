@@ -1,9 +1,7 @@
 # hackerlink
 HackerLink code examples
 
-## Added Infomation
-
->2020/11/12
+BUSD-test
 
 Hello Hacker!
 
